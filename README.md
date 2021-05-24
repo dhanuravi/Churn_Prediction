@@ -4,11 +4,6 @@ Churn predictor is a end to end Flask application that predicts whether `a custo
 ## URL
 Run this App [HERE](https://churn--predic.herokuapp.com/)
 
-Created By
-----------
-Sri hari K V
-https://bit.ly/34R7lrj
-
 ## Dataset
 Thanks to Kaggle
 You can find dataset [HERE](https://www.kaggle.com/blastchar/telco-customer-churn)
